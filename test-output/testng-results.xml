@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="118827" started-at="2019-01-22T05:18:44Z" finished-at="2019-01-22T05:20:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="118827" started-at="2019-01-22T05:18:44Z" finished-at="2019-01-22T05:20:43Z">
+      <class name="com.app.tests.ProductDetailTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.app.tests.ProductDetailTest@7d4f9aae]" name="beforeMethod" is-config="true" duration-ms="3489" started-at="2019-01-22T05:18:48Z" finished-at="2019-01-22T05:18:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifySocialButtons()[pri:1, instance:com.app.tests.ProductDetailTest@7d4f9aae]" name="verifySocialButtons" duration-ms="976" started-at="2019-01-22T05:18:52Z" finished-at="2019-01-22T05:18:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySocialButtons -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.app.tests.ProductDetailTest@7d4f9aae]" name="beforeMethod" is-config="true" duration-ms="1844" started-at="2019-01-22T05:19:19Z" finished-at="2019-01-22T05:19:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyPdtDescription()[pri:2, instance:com.app.tests.ProductDetailTest@7d4f9aae]" name="verifyPdtDescription" duration-ms="254" started-at="2019-01-22T05:19:21Z" finished-at="2019-01-22T05:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPdtDescription -->
+      </class> <!-- com.app.tests.ProductDetailTest -->
+      <class name="com.app.tests.DressesPageTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.app.tests.DressesPageTest@72e5a8e]" name="beforeMethod" is-config="true" duration-ms="3644" started-at="2019-01-22T05:18:53Z" finished-at="2019-01-22T05:18:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifySize()[pri:1, instance:com.app.tests.DressesPageTest@72e5a8e]" name="verifySize" duration-ms="228" started-at="2019-01-22T05:18:56Z" finished-at="2019-01-22T05:18:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySize -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.app.tests.DressesPageTest@72e5a8e]" name="beforeMethod" is-config="true" duration-ms="2932" started-at="2019-01-22T05:19:22Z" finished-at="2019-01-22T05:19:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyProductCount()[pri:2, instance:com.app.tests.DressesPageTest@72e5a8e]" name="verifyProductCount" duration-ms="99" started-at="2019-01-22T05:19:24Z" finished-at="2019-01-22T05:19:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductCount -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.app.tests.DressesPageTest@72e5a8e]" name="beforeMethod" is-config="true" duration-ms="2006" started-at="2019-01-22T05:19:25Z" finished-at="2019-01-22T05:19:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyAddToCart()[pri:3, instance:com.app.tests.DressesPageTest@72e5a8e]" name="verifyAddToCart" duration-ms="1831" started-at="2019-01-22T05:19:27Z" finished-at="2019-01-22T05:19:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCart -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.app.tests.DressesPageTest@72e5a8e]" name="beforeMethod" is-config="true" duration-ms="2524" started-at="2019-01-22T05:19:28Z" finished-at="2019-01-22T05:19:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyPriceInAscendingOrder()[pri:4, instance:com.app.tests.DressesPageTest@72e5a8e]" name="verifyPriceInAscendingOrder" duration-ms="30807" started-at="2019-01-22T05:19:31Z" finished-at="2019-01-22T05:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPriceInAscendingOrder -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.app.tests.DressesPageTest@72e5a8e]" name="beforeMethod" is-config="true" duration-ms="9418" started-at="2019-01-22T05:20:02Z" finished-at="2019-01-22T05:20:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyProductNamesInAscendingOrder()[pri:5, instance:com.app.tests.DressesPageTest@72e5a8e]" name="verifyProductNamesInAscendingOrder" duration-ms="30779" started-at="2019-01-22T05:20:11Z" finished-at="2019-01-22T05:20:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductNamesInAscendingOrder -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.app.tests.DressesPageTest@72e5a8e]" name="afterMethod" is-config="true" duration-ms="657" started-at="2019-01-22T05:20:42Z" finished-at="2019-01-22T05:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.app.tests.DressesPageTest -->
+      <class name="com.app.tests.HomePageTest">
+        <test-method status="PASS" signature="Email()[pri:0, instance:com.app.tests.HomePageTest@506ae4d4]" name="Email" duration-ms="3128" started-at="2019-01-22T05:18:44Z" finished-at="2019-01-22T05:18:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Email -->
+        <test-method status="PASS" signature="verifyAddToCartButton()[pri:0, instance:com.app.tests.HomePageTest@506ae4d4]" name="verifyAddToCartButton" duration-ms="1129" started-at="2019-01-22T05:18:47Z" finished-at="2019-01-22T05:18:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCartButton -->
+        <test-method status="PASS" signature="verifyTabs()[pri:0, instance:com.app.tests.HomePageTest@506ae4d4]" name="verifyTabs" duration-ms="156" started-at="2019-01-22T05:18:48Z" finished-at="2019-01-22T05:18:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTabs -->
+        <test-method status="PASS" signature="verifypage()[pri:2, instance:com.app.tests.HomePageTest@506ae4d4]" name="verifypage" duration-ms="22860" started-at="2019-01-22T05:18:57Z" finished-at="2019-01-22T05:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifypage -->
+      </class> <!-- com.app.tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
